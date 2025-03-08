@@ -3,9 +3,6 @@
 
 
 int main(void) {
-    /* Código para simulação do cenário de reprodução
-    do Paciente A (P1-CLL) do poster do SIMMA (2024)
-    */
 
     double beta = 9.1921e-1, eta = 1.0e-8;
     double rmin = 3.03, p1 = 1.050917958e1, p2, p3 = 8.5e1, A = 8.1e4, xi = 3.09366e-1, theta = 6.0e-6, alpha = 5.5e-7;
