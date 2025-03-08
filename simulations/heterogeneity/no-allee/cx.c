@@ -3,9 +3,6 @@
 
 
 int main(void) {
-    /* Código para simulação do cenário P = 0, Q = 1e4, g0 = 0.05 e T_R(0) = 1e3
-    do Paciente C (B2-DLBCL) do poster do SIMMA (2024) e também da dissertação
-    */
 
     double beta = 2.7809, eta = 1.0;
     double rmin = 1.631, p1 = 6.5555, p2, p3 = 8.4, A = 1.0e-1, xi = 3.1598, theta = 6.0e-6, alpha = 5.5e-7;
